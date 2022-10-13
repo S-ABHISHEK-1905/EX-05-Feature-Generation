@@ -186,6 +186,8 @@ df5
 ```
 
 # OUPUT
+## Data.csv :
+
 ![image](https://user-images.githubusercontent.com/66360846/195596531-b68f0526-f0ec-4259-9a67-0f0bb8b02847.png)
 
 ![image](https://user-images.githubusercontent.com/66360846/195596571-6a58411d-73bd-456e-b706-81cac98f48d9.png)
